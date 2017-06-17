@@ -1,5 +1,5 @@
 {
-  "name": "reduxer",
+  "name": "reduxxer",
   "version": "0.0.1",
   "description": "Redux helper library",
   "main": "index.js",

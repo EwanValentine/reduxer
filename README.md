@@ -1,6 +1,6 @@
-# Reduxer
+# Reduxxer
 
-Reduxer is a fully tested, functional library for reducing boilerplate within your React/Redux actions and reducers. 
+Reduxxer is a fully tested, functional library for reducing boilerplate within your React/Redux actions and reducers. 
 
 
 ## Actions
