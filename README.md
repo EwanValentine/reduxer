@@ -9,7 +9,7 @@ Reduxer is a fully tested, functional library for reducing boilerplate within yo
 
 Create an object, encapsulating your action types.
 
-```
+``` js
 import { createConstants } from 'reduxer'
 
 const constants = createConstants(
@@ -32,7 +32,7 @@ export const addItem = item => {
 
 Create clean reducer code without using length switch statements.
 
-```
+```js
 import { create } from 'reduxer'
 
 const init = {
